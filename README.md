@@ -8,7 +8,7 @@ Jupyter notebooks for running basic topographic analysis on [Google Colab](https
 - `channel_extraction/`: extracting channel networks
 - `surface_metrics/`: computing surface metrics
 
-Start with `setting_up_and_getting_data/setting_up_lsdtt3.ipynb`. It sets up the Colab environment (condacolab, PyGMT, lsdviztools3 and the lsdtt3 binaries) that the other notebooks need.
+Start with `setting_up_and_getting_data/setting_up_lsdtt3.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LSDtopotools/lsdtt3_notebooks/blob/main/setting_up_and_getting_data/setting_up_lsdtt3.ipynb). It sets up the Colab environment (condacolab, PyGMT, lsdviztools3 and the lsdtt3 binaries) that the other notebooks need.
 
 ## Author
 
