@@ -1,0 +1,38 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Downloaded packages and binaries
+*.whl
+*.tar.gz
+lsdtt3-backend-*/
+
+# Data and outputs (DEMs, rasters, vectors, figures)
+*.tif
+*.tiff
+*.bil
+*.hdr
+*.aux.xml
+*.csv
+*.geojson
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.png
+*.gif
+*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
