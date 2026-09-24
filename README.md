@@ -10,7 +10,15 @@ These are some Jupyter notebooks for running basic topographic analysis on [Goog
 - `channel_extraction/`: extracting channel networks
 - `surface_metrics/`: computing surface metrics
 
-Start with `setting_up_and_getting_data/setting_up_lsdtt3.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LSDtopotools/lsdtt3_notebooks/blob/main/setting_up_and_getting_data/setting_up_lsdtt3.ipynb). It sets up the Colab environment (condacolab, PyGMT, lsdviztools3 and the lsdtt3 binaries) that the other notebooks need.
+## Notebooks
+
+Each notebook installs everything it needs (condacolab, PyGMT, lsdviztools3 and the lsdtt3 binaries) in its first few cells, so you can open any of them directly in Colab.
+
+| Notebook | What it does | |
+|---|---|---|
+| `setting_up_and_getting_data/setting_up_lsdtt3.ipynb` | Sets up the Colab environment and downloads a DEM of the Sierra Nevada, Spain | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LSDtopotools/lsdtt3_notebooks/blob/main/setting_up_and_getting_data/setting_up_lsdtt3.ipynb) |
+| `surface_metrics/glencoe_hillshade_slope.ipynb` | Downloads a DEM around Glencoe, Scotland, computes a hillshade and topographic gradient, and maps them | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LSDtopotools/lsdtt3_notebooks/blob/main/surface_metrics/glencoe_hillshade_slope.ipynb) |
+| `channel_extraction/apennines_channel_extraction.ipynb` | Downloads a DEM of the Apennine valleys south of Bologna, Italy, extracts the channel network and plots it by stream order over a hillshade | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LSDtopotools/lsdtt3_notebooks/blob/main/channel_extraction/apennines_channel_extraction.ipynb) |
 
 ## Author
 
