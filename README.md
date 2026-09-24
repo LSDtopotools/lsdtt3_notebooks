@@ -1,6 +1,8 @@
 # lsdtt3_notebooks
 
-Jupyter notebooks for running basic topographic analysis on [Google Colab](https://colab.research.google.com/) using **lsdtt3** (LSDTopoTools v3) and **lsdviztools3**.
+These are some Jupyter notebooks for running basic topographic analysis on [Google Colab](https://colab.research.google.com/) using **lsdtt3** (LSDTopoTools v3) and **lsdviztools3**.
+
+**Both of these packages are in (for the time being) in development so these should be considered experimental**
 
 ## Contents
 
