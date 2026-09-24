@@ -36,3 +36,6 @@ Thumbs.db
 desktop.ini
 .vscode/
 .idea/
+
+# Keep the small example inputs used by the notebooks
+!channel_extraction/example_data/*.gpkg
