@@ -39,3 +39,6 @@ desktop.ini
 
 # Keep the small example inputs used by the notebooks
 !channel_extraction/example_data/*.gpkg
+
+# The README banner
+!images/readme_banner.png
